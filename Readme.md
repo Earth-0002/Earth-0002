@@ -2,7 +2,7 @@
 
 ---
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl1IRCSmm74qhcFNPTHcbMg?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCcgkEp8b1exwOAktAVk-aMQ?sub_confirmation=1) 
+[![YouTube Channel](https://www.youtube.com/channel/UCcgkEp8b1exwOAktAVk-aMQ?sub_confirmation=1)
 
 I Am A Coder That Has Just Started Learning About Coding 
 My Discord </EARTH>#0002
